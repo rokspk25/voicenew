@@ -24,7 +24,6 @@ const suggestions = [
   { name: 'Abhilasha Khare', amount: '100', status: 'Paid yesterday', type: 'paid' },
   { name: 'Kartik Khadelwal', amount: '108', status: 'Received on 26 Sep 2024', type: 'received' },
   { name: 'Abheek', amount: '80', status: 'Paid on 2 Nov 2024', type: 'paid' },
-  { name: 'Jahanvi Singh', amount: '250', status: 'Paid on 24 Sept 2024', type: 'paid' },
   { name: 'Nitin Kumar Bramhankar Sharma', amount: '108', status: 'Paid on 12 Aug 2024', type: 'paid' }
 ]
 
