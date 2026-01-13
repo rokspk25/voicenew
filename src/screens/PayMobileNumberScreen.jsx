@@ -155,7 +155,7 @@ export default function PayMobileNumberScreen() {
         onClick={() => setIsVoiceSheetOpen(true)}
         className="absolute w-16 h-16 bg-green-500 text-white rounded-full shadow-lg hover:shadow-xl transition-shadow flex items-center justify-center z-50"
         style={{
-          bottom: '56px',
+          bottom: '80px',
           right: '24px'
         }}
         aria-label="Voice Payment"
